@@ -3,9 +3,9 @@ Exploratory Data Analysis is the process of analyzing and visualizing data sets 
 
 ### Project Overview:
 
-1. **Data Loading*: The project starts by loading the dataset containing information about sales transactions in the superstore. This dataset typically includes details such as order date, product category, sub-category, sales, quantity, and customer segment.
+1. *Data Loading*: The project starts by loading the dataset containing information about sales transactions in the superstore. This dataset typically includes details such as order date, product category, sub-category, sales, quantity, and customer segment.
 
-2. **Data Exploration*: Once the data is loaded, the application displays the dataset's basic information, such as the first few rows, summary statistics, and other relevant statistics like mean, median, and standard deviation.
+2. *Data Exploration*: Once the data is loaded, the application displays the dataset's basic information, such as the first few rows, summary statistics, and other relevant statistics like mean, median, and standard deviation.
 
 3. *Interactive Visualization*: The application provides interactive visualizations to explore the dataset further. Users can choose different categories or sub-categories and visualize sales data using bar charts, line charts, and other plots. These interactive plots allow users to gain insights into sales trends, patterns, and correlations.
 
