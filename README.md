@@ -25,5 +25,5 @@ Deploy the Streamlit app:
 Make sure you have Streamlit installed in your local environment.
 Run the app locally to test:
 
-streamlit run your_app.py
+- streamlit run your_app.py
 
