@@ -2,13 +2,13 @@ Requirements
 
 Libraries:
 
-streamlit==1.35.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.0
-seaborn==0.13.2
-plotly==5.22.0
-scikit-learn==1.5.0
+1. streamlit==1.35.0
+2. pandas==2.2.2
+3. numpy==1.26.4
+4. matplotlib==3.9.0
+5. seaborn==0.13.2
+6. plotly==5.22.0
+7. scikit-learn==1.5.0
 
 Here's a brief explanation of the included libraries:
 
