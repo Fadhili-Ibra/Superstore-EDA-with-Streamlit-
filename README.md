@@ -12,13 +12,13 @@ Libraries:
 
 Here's a brief explanation of the included libraries:
 
-streamlit: The core library for building and deploying the web app.
-pandas: Essential for data manipulation and analysis.
-numpy: Provides support for large, multi-dimensional arrays and matrices.
-matplotlib: A plotting library for creating static, animated, and interactive visualizations.
-seaborn: A Python visualization library based on matplotlib that provides a high-level interface for drawing attractive statistical graphics.
-plotly: Used for creating interactive plots.
-scikit-learn: For machine learning models and data preprocessing.
+1. streamlit: The core library for building and deploying the web app.
+2. pandas: Essential for data manipulation and analysis.
+3. numpy: Provides support for large, multi-dimensional arrays and matrices.
+4. matplotlib: A plotting library for creating static, animated, and interactive visualizations.
+5. seaborn: A Python visualization library based on matplotlib that provides a high-level interface for drawing attractive statistical graphics.
+6. plotly: Used for creating interactive plots.
+7. scikit-learn: For machine learning models and data preprocessing.
 
 Deploy the Streamlit app:
 
